@@ -2,4 +2,7 @@
 
 This directory will contain all my reading notes and other resources for the "Advanced Software Development" course.
 
-**Content Coming Soon!**
+### Prep Work
+
+- SQL
+  - [Introduction to SQL](prep-work/sql/intro-to-sql.md)
