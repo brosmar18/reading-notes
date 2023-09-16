@@ -9,5 +9,7 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 - Growth Mindset: [Prep Your Mindset Review](prep-work/growth-mindset.md)
 
-## Class Lecture Noets
+## Class Lecture Notes
+
+### Class 01
 - Node.js: [Node Ecosystem](class-01/node-ecosystem.md)
