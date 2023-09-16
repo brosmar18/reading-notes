@@ -2,7 +2,7 @@
 
 This directory will contain all my reading notes and other resources for the "Advanced Software Development" course.
 
-### Prep Work
+## Prep Work
 
 - SQL
   - [Introduction to SQL](prep-work/sql/intro-to-sql.md)
@@ -11,3 +11,7 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 - Growth Mindset
   - [Prep Your Mindset Review](prep-work/growth-mindset.md)
+
+  ## Class Lecture Noets
+  - Node.js
+  [Node Ecosystem](class-01/node-ecosystem.md)
