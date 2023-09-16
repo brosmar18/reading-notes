@@ -1,6 +1,6 @@
 # Node.js
 
-## Overview
+## Why It Matters
 Node.js is a crucial technology in the current landscape of web development. As software increasingly moves to the cloud and becomes more interactive, having a technology that allows for real-time, fast, and scalable network aplications is vital. Node.js serves this purpose by allowing JS to run on the server-side, effectively marrying client-side and server-side development into a cohesive whole. 
 
 ## Reading Questions
@@ -32,4 +32,6 @@ Additionally, I look forward to learn about the process of importing and exporti
 - What are the security best practices in a Node.js environment? 
 - How do databases integrate with Node.js? 
 
+#### Citations
+[*An Introduction to Node.js*](https://www.sitepoint.com/an-introduction-to-node-js/)
 
