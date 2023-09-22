@@ -18,3 +18,17 @@
 
     A module is like a self-contained unit or building block of code that can be easily plugged into a larger system. Think of it as a puzzle piece in a jigsaw puzzle. Each piece has a specific shape and image, and when combined with other pieces, it forms a complete picture. In software development, modules allow us to break down complex apps into smaller, manageable parts. This modularity is useful because it makes our code more organized, easier to understand, and allows for reusability. Instead of rewriting the same code multiple times, we can write it once in a module and reuse it wherever needed.
 
+## NPM 
+
+1. What version of npm are you running on your machine?
+
+    I am running npm version 9.8.1
+
+
+2. What command would you type to install a library/package called ‘jshint’ into your node project?
+
+    To install `jshint` package into a node project, I would use the following command: 
+
+    `npm install jshint`
+
+    
