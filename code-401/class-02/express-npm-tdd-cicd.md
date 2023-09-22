@@ -92,4 +92,8 @@ In software development, tools and practices like middleware, Express, and modul
 
 1. What are your learning goals after reading and reviewing the class README? 
 
+    After revieweing the class README, my primary goals are to grasp the core mechanics of Express severs, including routing and middleware functionalities. I want to understand the event-driven nature of Express and the pivotal role of middleware in processing requests. Additionally, I want to improve my server testing skills using mock testing with libraries like "supertest" and setting up an efficient testing environment with "jest".  
+
 ## Things I want to know more about
+
+I want to know more about how middleware and Express interacts with other frameworks or tools. I'm curious about the differences between "unopinionated" frameworks like Express and their "opinionated" counterparts. What are the advantages and challenges of each? In testing, I'd like to explore more about best practices and testing strategies. 
