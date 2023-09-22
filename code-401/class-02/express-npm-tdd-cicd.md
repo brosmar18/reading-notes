@@ -1,6 +1,12 @@
 # Express, NPM, TDD, CI/CD
 
-## Intro to Node.js and Express
+## Why it matters
+
+In software development, tools and practices like middleware, Express, and modularity ensure our digital products are robust and user-friendly. Think of middleware as airport security checks for web applications, and modularity as using puzzle pieces to form a complete picture. NPM acts like a vast library for code, while testing is akin to checking a knitting pattern for errors. Continuous Integration and Deployment are automated quality checks, ensuring software is up to standard. Platforms like GitHub are communal spaces where developers collaborate, much like a group working on a puzzle together. In short, these tools and practices are crucial for creating reliable and efficient software.
+
+## Reading Questions
+
+### Intro to Node.js and Express
 
 1. Explain middleware, answer as though I were a non-technical recruiter. 
 
@@ -18,7 +24,7 @@
 
     A module is like a self-contained unit or building block of code that can be easily plugged into a larger system. Think of it as a puzzle piece in a jigsaw puzzle. Each piece has a specific shape and image, and when combined with other pieces, it forms a complete picture. In software development, modules allow us to break down complex apps into smaller, manageable parts. This modularity is useful because it makes our code more organized, easier to understand, and allows for reusability. Instead of rewriting the same code multiple times, we can write it once in a module and reuse it wherever needed.
 
-## NPM 
+### NPM 
 
 1. What version of npm are you running on your machine?
 
@@ -31,7 +37,7 @@
 
     `npm install jshint`
 
-## TDD
+### TDD
 
 1. Explain why tests are important. Please explain as though I were your non technical elder.
 
@@ -60,7 +66,7 @@
 
     - Poor maintenance of the test suite, often leading to a suite that takes too long to run. 
 
-## CI/CD
+### CI/CD
 
 1. What are three benefits of Continuous Integration?
 
@@ -82,4 +88,8 @@
 
     Imagine you're working on a big puzzle with a team. Each team member is working on different sections of the puzzle. Now, you need a table (a platform) where everyone can bring their sections and fit them together to see the whole picture. Github is like that table. It's a place where everyone brings their pieces of code (puzzle sections) and fits them together. The CI/CD process than ensures that these pieces fit well without gaps and that the final picture (software) looks as it should. If a piece doesn't fit, the team is alerted to fix it. 
 
-    
+## Reflection: 
+
+1. What are your learning goals after reading and reviewing the class README? 
+
+## Things I want to know more about
