@@ -97,3 +97,13 @@ In software development, tools and practices like middleware, Express, and modul
 ## Things I want to know more about
 
 I want to know more about how middleware and Express interacts with other frameworks or tools. I'm curious about the differences between "unopinionated" frameworks like Express and their "opinionated" counterparts. What are the advantages and challenges of each? In testing, I'd like to explore more about best practices and testing strategies. 
+
+
+#### Citations
+[*Express/Node Introduction*](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+
+[*About NPM*](https://docs.npmjs.com/about-npm)
+
+[*What is TDD?*](https://www.agilealliance.org/glossary/tdd/)
+
+[*School Of Basics | What is CI CD | What is CI CD Pipeline | Interview questions*](https://www.youtube.com/watch?v=k2aNsQKwyOo)
