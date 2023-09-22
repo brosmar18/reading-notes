@@ -31,4 +31,31 @@
 
     `npm install jshint`
 
-    
+## TDD
+
+1. Explain why tests are important. Please explain as though I were your non technical elder.
+
+    Imaging you're knitting a sweater. Before finishing the entire sweater, you'd want to periodically check if you're following the pattern correctly, if the size is right, and if there are any holes or mistakes. In software development, tests serve a similar purpose. They allow developers to check if the "sweater" (software) they're "knitting" (coding) is shaping up correctly. By running these tests, they can catch any "holes" or errors early on, ensuriing the final product is error-free. 
+
+
+2. What are three expected benefits of testing
+
+    - Fewer Mistakes: Testing helps  catch and fix errors early, leading to software with fewer issues. 
+
+    -  Saves Time Later: While testing might take a bit of time upfront, it saves more time in the end by avoiding big problems later. 
+
+    - Better Quality Software: With regular testing, the final software works better and is more reliable
+
+
+3. Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.
+
+    **Individual Pitfalls**
+
+    - Forgetting to run tests frequently. 
+    - Writing tests that are too large or coarse-grained. 
+
+    **Team Pitfalls**
+
+    - Partial adoption, where only a few team members use TDD. 
+
+    - Poor maintenance of the test suite, often leading to a suite that takes too long to run. 
