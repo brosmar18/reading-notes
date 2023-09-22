@@ -59,3 +59,27 @@
     - Partial adoption, where only a few team members use TDD. 
 
     - Poor maintenance of the test suite, often leading to a suite that takes too long to run. 
+
+## CI/CD
+
+1. What are three benefits of Continuous Integration?
+
+    - **Faster Feedback**: Continuous integration (CI) means that code changes are automatically tested and integrated into the main codebase frequently. This provides immediate feedback to developers about whether their changes work of ir they've introduced any issues. This quick feedback loop helps in catching and fixing problems early. 
+
+    - **Reduced Integration Issues**: Since code is integrated often, the chances of having large-scale integration problems reduce. Think of it like weaving a fabric: It's easier to fix a single loose thread than untangling a big knot. 
+
+    - **Consistent Code Quality**: Automated tests run during the CI process ensures that the code meets certain quality standards before it's merged. This means that the final product is more reliable and of higher quality. 
+
+
+2. What is the difference between Continuos Delivery and Continuous Deployment?
+
+    - **Continuous Delivery**: Once the code passes all tests in CI, it's ready to be released to a live environment. However, the actual release might require a manual approval. Think of it as having a wrapped gift ready to be given, but you choose when to hand it over. 
+
+    - **Continuous Deployment**: This is a step further. JNot only is the code ready to be released, but it's also automatically deployed to a live environment without a manual intervention. Using the gift analogy, as soon as the gift is wrapped, it's immediately handed over. 
+
+
+3. Explain how GitHub fits into this process assuming the listener comes from a non-technical background
+
+    Imagine you're working on a big puzzle with a team. Each team member is working on different sections of the puzzle. Now, you need a table (a platform) where everyone can bring their sections and fit them together to see the whole picture. Github is like that table. It's a place where everyone brings their pieces of code (puzzle sections) and fits them together. The CI/CD process than ensures that these pieces fit well without gaps and that the final picture (software) looks as it should. If a piece doesn't fit, the team is alerted to fix it. 
+
+    
