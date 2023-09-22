@@ -14,3 +14,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 01
 - Node.js: [Node Ecosystem](class-01/node-ecosystem.md)
+
+#### Class 02
+- Node.js/Express: [Express, NPM, TDD, CI/CD](class-02/express-npm-tdd-cicd.md)
