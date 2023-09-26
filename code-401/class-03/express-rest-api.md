@@ -59,4 +59,22 @@
 
     Route middleware in Express is used to perform operations before a request is processed. It can be used for various tasks like checking if a user is authenticated, logging data for analytics, or any other operations that should be executed before responding to a request. Middleware is defined using `router.use()` and will be applied to all the requests that come into the app for that instance of Router. It can also be used to validate parameters using `.param()` middleware. 
 
-    
+## Reflection: 
+
+1. What are your learning goals after reading and reviewing the class README? 
+
+    After reviwing the README file for this class, my learning goals are to grasp a solid understanding of external routing with Express. I want to be able to confidently build a REST API server, ensuring I can use Sequelize models and schemas to perform CRUD operations. I also want to respond adeptly to request queries and parameters in routes and test code taht relies on a Postgres Database server. 
+
+
+## Things I want to know more about
+
+I am curioius about advanced use cases of `express.Router()` and how to efficiently structure a large application with numerous routes. I want to explore more about the `next` parameter in route handlers, specifically its role in error handling and more complex routing scenerios. Additionally, I am iinteresting in gaining a more in-depth understanding of Sequelize models, particularly in the context of building robust and scalable RESTful APIs. 
+
+
+#### Citations
+[*Classes*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+
+[*Routing*](https://expressjs.com/en/guide/routing.html)
+
+[*Learn to Use the New Router in ExpressJS 4.0*](https://www.digitalocean.com/community/tutorials/learn-to-use-the-new-router-in-expressjs-4)
+
