@@ -17,3 +17,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 02
 - Node.js/Express: [Express, NPM, TDD, CI/CD](class-02/express-npm-tdd-cicd.md)
+
+#### Class 03
+- Express REST API: [Express, REST API](class-03/express-rest-api.md)
