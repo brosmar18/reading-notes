@@ -20,3 +20,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 03
 - Express REST API: [Express, REST API](class-03/express-rest-api.md)
+
+#### Class 04
+- Data Modeling: [Data Modeling Notes](class-04/dataModeling.md)

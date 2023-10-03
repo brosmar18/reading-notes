@@ -50,3 +50,23 @@
     - **One-to-Many**: Think of a mother duck and her ducklings. One mother duck can have multiple ducklings, but each duckling has only one mother. This is a one-to-many relationship, where one entity from one group can be associated with multiple entities from another group, but not the other way around.
 
     - **Many-to-Many**: Consider a dance class where students can enroll in multiple dance courses, and each course can have multiple students. Here, there's a many-to-many relationship because multiple entities from one group can be associated with multiple entities from another group.
+
+## Reflection: 
+
+1. What are your learning goals after reading and reviewing the class README? 
+
+    After reading and reviewing the class README, I aim to understand the process of data modeling, which involves encoding real-world or conceptual ideas into Javascript's built-in data types. I want to grasp the role of data models, the significance of CRUD operations, and the "Collection" design pattern. Additionally, I want to understand the difference between SQL and NoSQL databases and delve into the intricacies of SQL databases, tables, and queries. 
+
+
+## Things I want to know more about
+
+I want to know more about the "Collection" design pattern and understand its practical application and benefits in real-woirld scenerios. I also want to explore the specific use cases of SQL and NoSQL and where one might be preferred over the other. 
+
+#### Citations
+[*NoSQL vs SQL*](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
+
+[*SQL Modeling Techniques*](https://www.essentialsql.com/get-ready-to-learn-sql-7-simplified-data-modeling/)
+
+[*SQL vs NoSQL*](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+
+
