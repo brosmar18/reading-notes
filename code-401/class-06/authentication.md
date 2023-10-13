@@ -14,3 +14,26 @@
 3. Why might you use something like Bcrypt?
 
     We would use Bcrypt because it's strong and secure. Unlike some other tools, Bycript is designed to adapt over time. As computers get faster and better at guessing passwords, Bcrypt can be adjusted to be even slower, keeping passwords safe. It's like having a lock that gets tougher to pick as thieves get smarter. Using Bcrypt ensures that even if someone steals the scrambled codes, they would have a very hard time figuring out the original passwords. 
+
+## Basic Auth 
+
+1. What is Basic Authentication?
+
+    Basic authentication is a method used in HTTP transactions that allows an HTTP user agent (like a web browser) to provide a username and password when making a request. It is a straightforward technique for enforcing access controls to web resources without the need for cookies, session identifiers, or login pages. 
+
+2. What properties are necessary in the header of a Basic Auth request?
+
+    In a Basic Auth request, the necessary property in the header is the `Authorization` field. This field contains the word "Basic" followed by a space and then the `<credentials>`. The `<credentials>` is the Base64 encoding of the combired username and password, separated by a colon. 
+
+4. How are `username:password` in Basic Auth encoded?
+
+    In Basic Authentication, the `username:password` combination is first joined by a single colon (`:`). The resulting string is then encoded using Base64. This Base64 encoded string represents the `<credentials>` that are included in the `Authorization` header field of the HTTP request. 
+
+## OWASP auth cheetsheet 
+
+1. Define the authentication process to a non-technical recruiter.
+
+
+2. How should your error messaging respond (both HTTP and HTML)? Why?
+
+
