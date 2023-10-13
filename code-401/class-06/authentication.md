@@ -45,4 +45,19 @@
 
     In terms of HTTP responses, a standard "401 Unauthorized" can be used to indicate failed authentication attempts. This keeps it consistent and doesn't provide extra information to potential attackers. 
 
+## Things I want to know more about:
+
+After diving deep into the realm of authentication, I've become intrigued by the evolving landscape of security measures in the digital age. I'm particularly interested in understanding more about multi-factor authentication (MFA) and how it enhances the security layers beyond just passwords. The concept of adaptive authentication, where the system decides the type and depth of authentication based on user behavior and other factors, also piques my curiosity. Additionally, I'd love to explore the latest cryptographic techniques for password storage and how they stand against quantum computing threats. Lastly, with the rise of biometric authentication methods like fingerprint and facial recognition, I wonder about their efficacy and potential vulnerabilities. As technology advances, ensuring the safety of user data becomes paramount, and I'm eager to stay updated with the best practices and innovations in this domain.
+
+
+## Things I want to know more about: 
+
+I'm interested in understanding more about multi-factor authentication and how it enhances the security layers beyond just passwords. The concept of adaptive authentication, where the system decides the type and depth of authentication based on user behavior and other factors, also piques my curiosity. Additionally, with the rise of biometric authentication methods like fingerprint and facial recognition, I wonder about their efficacy and potential vulnerabilities.
+
+
+#### Citations
+- [The Hacker News - Securing Passwords with Bcrypt Hashing Function](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
+- [Wikipedia - Basic Access Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
+- [OWASP Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+
 
