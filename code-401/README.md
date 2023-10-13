@@ -23,3 +23,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 04
 - Data Modeling: [Data Modeling Notes](class-04/dataModeling.md)
+
+#### Class 06
+- Authentication: [Authentication Notes](class-06/authentication.md)
