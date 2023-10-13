@@ -33,7 +33,16 @@
 
 1. Define the authentication process to a non-technical recruiter.
 
+    Authentication is like checking someone's ID at the entrance of a private event. In the online world, when you log into a website or an app, it needs to make sure you are who you say you are. This is done by asking for your username (like your name) and a password (like a secret handshake). If both are correct, the website lets you in. If not, it asks you to try again. It's a way to keep private info safe and ensure only authorized people get access. 
 
 2. How should your error messaging respond (both HTTP and HTML)? Why?
+
+    Error messages should be generic and not give away too much information. For example, instead of saying "Username not found" or "Password is incorrect," the message should simply state "invalid login credentials". This is important for two main reasons: 
+    
+    - **Security**: By being vague, we don't giuve potential attackers clues about what they got wrong, makig it harder for them to guess the correct credentials. 
+
+    - **User Privacy**: We don't want to inadvertently reveal if a particular username exists or not, as this can be used for malicious purposes or unwanted solicitations. 
+
+    In terms of HTTP responses, a standard "401 Unauthorized" can be used to indicate failed authentication attempts. This keeps it consistent and doesn't provide extra information to potential attackers. 
 
 
