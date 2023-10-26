@@ -57,5 +57,5 @@ These are areas I believe would provide a more comprehensive understanding of JW
 
 #### Citations
 - [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
-- [If you can decode JWT, how are they secure?](hhttps://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
+- [If you can decode JWT, how are they secure?](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
 - [What is JWT? JSON Web Token Explained](https://www.youtube.com/watch?v=926mknSW9Lo)
