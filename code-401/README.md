@@ -26,3 +26,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 06
 - Authentication: [Authentication Notes](class-06/authentication.md)
+
+#### Class 07
+- Bearer Authorization: [Bearer Authorization Notes](class-07/bearerAuth.md)
