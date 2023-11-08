@@ -29,3 +29,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 07
 - Bearer Authorization: [Bearer Authorization Notes](class-07/bearerAuth.md)
+
+#### Class 08
+- Role Based Access Control: [RBAC Notes](class-08/accessControl.md)
