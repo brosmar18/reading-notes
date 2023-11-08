@@ -43,6 +43,10 @@
 
    RBAC can benefit a business in several ways. Firstly, it enhances security by ensuring that users only have access to the resources necessary for their roles, reducing the risk of internal and external breaches. Secondly, it simplifies the management of user permissions, making it easier for administrators to add, remove, or change roles as well as audit permissions across the organization. This can lead to increased operational efficiency, as less time is spent on managing individual user permissions. Additionally, RBAC supports compliance with regulatory requirements by providing a clear framework for access control that can be easily documented and reviewed. Overall, RBAC helps in creating a more secure, manageable, and compliant IT environment.
 
+## Reflection
+
+    I am to understand the concepts of authorization, roles, and capabilities, and understand how they interplay to secure resources within a server environment. I want to know more about RBAC in regards to the challenges of integrating RBAC with existing systems that may not have been designed with this model in mind. Additionally, I'm curious about the intersection of RBAC with other security frameworks and how it can be harmonized with them for enhanced protection. 
+
 #### Citations
 - [5 Steps to Simple Role-based Access Control](https://www.csoonline.com/article/555873/5-steps-to-simple-role-based-access-control.html)
 - [Role-Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control)
