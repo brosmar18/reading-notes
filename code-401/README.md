@@ -32,3 +32,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 08
 - Role Based Access Control: [RBAC Notes](class-08/accessControl.md)
+
+#### Class 09
+- Project Ideas: [Notes](class-09/projectIdeas.md)
