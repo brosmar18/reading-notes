@@ -35,3 +35,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 09
 - Project Ideas: [Notes](class-09/projectIdeas.md)
+
+#### Class 10
+- Stacks & Queues: [Stacks & Queues Notes](class-10/stacksAndQueues.md)
