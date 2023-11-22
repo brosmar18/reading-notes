@@ -38,3 +38,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 10
 - Stacks & Queues: [Stacks & Queues Notes](class-10/stacksAndQueues.md)
+
+#### Class 11
+- Event Driven Programming: [Notes](class-11/eventDrivenProgramming.md)
