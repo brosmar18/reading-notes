@@ -64,6 +64,10 @@ Imagine when two people want to have a clear conversation, they first need to en
 
 This process is called the "three-way handshake." It's like a greeting ritual between two computers. First, one computer sends a message saying, "Hi, I want to talk." The second computer responds, "Hello, I hear you, and I'm ready to talk too." Then, the first computer replies, "Great, I got your response, let's start our conversation." This back-and-forth ensures that both computers are ready and able to communicate without any issues. It's like making sure both people in a phone call can hear each other before starting a conversation. This handshake is vital for a smooth and error-free exchange of information over the internet.
 
+## Reflection
+
+Going into this class I aim to comprehend the fundamentals of Socker.io. I want to know what its role in real-time client-server communcation is and how it's different from other communcation methods. I look forward to learning about the OSI Networking Model's layers and functions, along with insights into TCP and UDP protocols and their idea use cases. 
+
 #### Citations
 
 "WebSocket." Wikipedia, Wikimedia Foundation, [https://en.wikipedia.org/wiki/WebSocket](https://en.wikipedia.org/wiki/WebSocket).
