@@ -41,3 +41,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 11
 - Event Driven Programming: [Notes](class-11/eventDrivenProgramming.md)
+
+#### Class 12
+- Socket.io: [Notes](class-12/webSockets.md)
