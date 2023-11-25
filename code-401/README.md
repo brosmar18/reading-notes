@@ -44,3 +44,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 12
 - Socket.io: [Notes](class-12/webSockets.md)
+
+#### Class 13
+- Message Queues: [Notes](class-13/messageQueues.md)
