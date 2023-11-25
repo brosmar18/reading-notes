@@ -48,6 +48,11 @@
 
   A practical use case for separate namespaces in Socket.io could be in a multi-functional web app that includes both real-time chat and live updates for a sports event. In this scenario, you could create two namespaces: one for the chat and another for the sports updates. The chat namespace would handle all the functionalities related to messaging, like sending, receiving, and broadcasting messages to chat rooms. On the other hand, the sports namespace would deal with the live updates of sports events, scores, and related notifications. This separation ensures that the chat and sports updates functionalities do not interfere with each other, providing a more organized and efficient handling of real-time data. It also enhances the user experience by ensuring that users receive only the relevant data based on the part of the application they are interacting with.
 
+  ## Things I Want to Know More About
+
+    I'm particularly interested in exploring deeper into the scalability and security aspects of real-time applications using Socket.io. Understanding how to efficiently scale these applications to support a large number of concurrent users without compromising performance is crucial. Additionally, I'm curious about the best practices for securing these real-time channels, especially considering the sensitive nature of real-time communication. Learning about advanced features and techniques in Socket.io, such as handling high-frequency real-time data (like in gaming or financial applications) and integrating with other technologies, is also on my radar.
+
+
 #### Citations
 
 1. Socket.IO. (n.d.). Get started: Chat. Retrieved from https://socket.io/get-started/chat/
