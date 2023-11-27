@@ -47,3 +47,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 13
 - Message Queues: [Notes](class-13/messageQueues.md)
+
+#### Class 14
+- Project Ideas: [Notes](class-14/projectIdeas.md)
