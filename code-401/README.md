@@ -50,3 +50,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 14
 - Project Ideas: [Notes](class-14/projectIdeas.md)
+
+#### Class 15
+- Binary Trees: [Notes](class-15/trees.md)
