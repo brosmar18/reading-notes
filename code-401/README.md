@@ -53,3 +53,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 15
 - Binary Trees: [Notes](class-15/trees.md)
+
+#### Class 16
+- AWS: Cloud Servers: [Notes](class-16/awsCloudServers.md)
