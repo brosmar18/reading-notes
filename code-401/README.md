@@ -56,3 +56,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 16
 - AWS: Cloud Servers: [Notes](class-16/awsCloudServers.md)
+
+#### Class 17
+- AWS: S3 and Lambda: [Notes](class-17/s3andLambda.md)
