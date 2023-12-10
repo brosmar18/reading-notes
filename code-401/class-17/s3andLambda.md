@@ -45,6 +45,10 @@ When a user requests a CDN-served webpage, the request is redirected to the clos
 - Enhanced security, including DDoS attack protection, by distributing load across multiple servers.
 - Reduced bandwidth costs as much of the content is served from the CDN's cache.
 
+## Reflection: 
+
+My primary goal is to gain a basic understanding of AWS Lambda and S3, focusing on how Lambda enables writing and triggering code in the cloud without the need for server maintenance. I want to understand how this relates to the AWS: Elastic Beanstalk that we learned about in the previous lesson. 
+
 #### References
 - [Amazon S3 - Cloud Object Storage](https://aws.amazon.com/s3/)
 - [AWS Lambda: The Ultimate Guide - Serverless](https://www.serverless.com/aws-lambda)
