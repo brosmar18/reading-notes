@@ -59,3 +59,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 17
 - AWS: S3 and Lambda: [Notes](class-17/s3andLambda.md)
+
+#### Class 18
+- AWS: API, Dynamo and Lambda: [Notes](class-18/awsAPIDynamoLambda.md)
