@@ -62,3 +62,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 18
 - AWS: API, Dynamo and Lambda: [Notes](class-18/awsAPIDynamoLambda.md)
+
+#### Class 19
+- AWS: Events: [Notes](class-19/awsEvents.md)
