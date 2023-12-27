@@ -74,13 +74,18 @@
 
 - How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 
+    The process of task management in our project will start with identifying the essential features of the app. Each feature will then be broken down into smaller, manageable components, with each component representing a specific task. These tasks would be assigned to team members based on their individual strengths and skills, ensuring efficiency and quality in execution. We would use project management tools to track the progress and completion of these tasks, facilitating clear visibility and effective coordination of work across the team. This structured approach allows us to efficiently manage workload and ensure timely completion of each component of the project.
 
 - What project management tool will be used?
+
+    For the project management needs, I will be utilizing GitHub Projects. This tool is well-suited for managing software development projects, offering features like task tracking, progress visualization, and collaboration functionalities. By leveraging GitHub Projects, I can effectively organize tasks, monitor development stages, and facilitate team communication, all within a platform that seamlessly integrates with the code repository. This choice ensures a cohesive and efficient management of the project's workflow.
+
 
 ## Git Process
 
 - What components of your project will live on GitHub?
 
+    
 
 - How will you share the repository with your teammates?
 
