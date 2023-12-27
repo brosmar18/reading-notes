@@ -85,24 +85,16 @@
 
 - What components of your project will live on GitHub?
 
-    
+    All components of the project, including the complete codebase, will be hosted on GitHub. This encompasses not only the source code but also any related documentation and resources. Additionally, if applicable, I will provide a link to the deployed application directly within the repository. A comprehensive README.md file will also be included, detailing the application's purpose, functionality, and instructions for use. This approach ensures that GitHub serves as a central hub for all project-related materials, facilitating easy access, collaboration, and transparency for an entire team.
 
 - How will you share the repository with your teammates?
 
+    To share the repository with teammates, a single central repository will be created on GitHub. Each team member will be able to fork this repository to their personal accounts for individual work. Furthermore, all team members would be added as collaborators on the main project repository. This setup will enable them to create pull requests, which the team can then review collectively. This approach ensures a streamlined workflow where everyone has access to the latest codebase and can contribute effectively while maintaining a coherent version control system.
 
 - What is your Git flow?
 
+    The Git flow involves a two-tier branching structure for efficient and organized development. Initially, all team members would merge their individual pull requests into a development branch, which serves as our primary integration branch. This development branch will be a dynamic space where we can collectively test and ensure that new features, fixes, and updates work harmoniously together. Once we confirm that the development branch is stable and functioning correctly with everyone's contributions, it will then be merged into the main branch. The main branch represents the project's most stable and updated version, ready for final deployment or delivery. This workflow allows for continuous integration and testing while maintaining the integrity of our main codebase.
 
-- Will you be using a PR review workflow? If so, consider:
+- Will you be using a PR review workflow? 
 
-
-- How many people must review a PR?
-
-
-- Who merges PRs?
-
-
-- How often will you merge?
-
-
-- How will you communicate that it’s time to merge?
+    Yes, we would be implementing a PR (Pull Request) review workflow. Pull requests submitted by team members would be collectively reviewed during team meetings. This process allows each member to explain their contributions and facilitates a thorough understanding of the changes being made. Additionally, it provides an opportunity for the team to collaboratively address any merging errors or conflicts that arise, ensuring that all integrations into the codebase are seamless and well-coordinated. This collaborative review approach not only enhances code quality but also fosters team cohesion and mutual learning.
