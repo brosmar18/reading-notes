@@ -65,3 +65,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 19
 - AWS: Events: [Notes](class-19/awsEvents.md)
+
+#### Midterm Project
+- Midterm Prep #1: [Notes](midterm/prep01.md)
