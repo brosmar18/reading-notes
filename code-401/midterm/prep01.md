@@ -44,24 +44,31 @@
 
 - What hours will you be available to communicate?
 
+    I will be readily available for communication during standard working hours, from 8 AM to 5 PM. Additionally, while my primary work focus will be within these hours, I will also make a point to periodically check my email in the evenings. This approach ensures that I can promptly respond to any urgent matters that may arise outside of regular working hours.
 
 - What platforms will you use to communicate (ie. Slack, phone …)?
 
+    For work-related communication, the primary platforms will be Slack and email. Slack will serve as the go-to channel for real-time discussions and quick updates, while email will be used for more formal communications and detailed information sharing. This dual-platform approach ensures both immediacy and thoroughness in a team's communication.
 
 - How often will you take breaks?
 
+    The Pomodoro technique for managing a workday has been a beneficial technique for time management and productivity. This involves a 25-minute focused work session followed y 5-minute breaks with a longer 15-min break every two hours. In a developer's role where prolonged sitting is common, I find that frequent breaks to stand, stretch, and walk around are crucial. This routine not only boosts productivity but also encourages healthy habits, balancing intense focus with necessary physical activity. 
 
 - What is your plan if you start to fall behind?
 
+    If I start to fall behind, my immediate action will be to reassess and prioritize tasks based on the project's core objectives. This involves identifying which features or aspects are most critical and refocusing my efforts accordingly. I would also communicate any changes or challenges with the team to ensure the collective plan is updated and remains aligned with the goals. This approach allows for adaptive and responsive project management, ensuring that essential tasks are prioritized and completed efficiently.
 
 - How will you communicate after hours and on the weekend?
 
+    For after-hours and weekend communications, I will continue to use Slack and email. This approach maintains consistency in the communication channels while respecting the balance between work and personal time.
 
 - What is your strategy for ensuring everyone’s voice is heard?
 
+    To ensure that every team member's voice is heard, the strategy revolves around structured daily meetings and check-ins. In these sessions, we would systematically go around the group, giving each person an opportunity to speak about their progress, any challenges faced, and any other relevant insights or ideas they wish to share. This approach guarantees that all team members have an equal platform to express themselves, fostering an inclusive and collaborative environment.
 
 - How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
+    To create a safe environment where everyone feels comfortable speaking up, the team leader will play a pivotal role in fostering a respectful and inclusive atmosphere. This includes ensuring that each team member gets an uninterrupted chance to speak and share their views. In the event of conflicts, maintaining a respectful and non-confrontational tone will be emphasized. By upholding these principles, we aim to cultivate an environment where open communication and mutual respect are the norm, encouraging all team members to contribute freely and confidently.
 
 ## Work Plan 
 
