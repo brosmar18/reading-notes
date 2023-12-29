@@ -68,3 +68,4 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Midterm Project
 - Midterm Prep #1: [Notes](midterm/prep01.md)
+- Midterm Prep #2: [Project Pitch](midterm/ideasPitch.md)
