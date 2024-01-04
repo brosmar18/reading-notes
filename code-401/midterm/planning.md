@@ -209,4 +209,18 @@ As a user, I want to receive timely notifications about events and restaurant pr
 4. Assess the backend system's capability to deliver notifications in a timely and efficient manner.
 5. Confirm the integration of the notification system with backend user profiles for accurate personalization.
 
+## Frontend Wireframe Conceptualization
+
+![Basic Wireframe](assets/basicFrontEndWireframe.png)
+
+The basic wireframe depicted here lays the foundational design for the application's frontend interface. It is a blueprint that aligns with the application's backend strengths while ensuring a streamlined and user-oriented experience.
+
+### Navigation Bar (Top Bar):
+The navigation bar, prominently placed at the top, acts as the cornerstone of navigation throughout the application. It is envisioned to include vital links and facilitate immediate access to user accounts. 
+
+### Sidebar (Toggleable Side Panel):
+The design incorporates a retractable sidebar, crafted to enhance the user experience through personalized navigation tailored to individual preferences. This adaptable panel is anticipated to house links for viewing upcoming events, browsing opportunities, event creation, preference modification, and other user-centric functionalities.
+
+### Content Cards:
+Central to the interface is the presentation of content within card modules. These cards are envisioned as interactive portals to the application's offerings, such as events and dining options, enabling users to engage with the content actively. Additionally, for administrative users, this area could transform into a dashboard, empowering them to efficiently manage users, events, and app-related operations.
 
