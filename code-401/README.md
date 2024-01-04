@@ -69,3 +69,5 @@ This directory will contain all my reading notes and other resources for the "Ad
 #### Midterm Project
 - Midterm Prep #1: [Notes](midterm/prep01.md)
 - Midterm Prep #2: [Project Pitch](midterm/ideasPitch.md)
+- Midterm Prep #3: [Project Management](https://github.com/orgs/Spots-LLC/projects/1)
+- Midterm Prep #4: [Project Design Plan](midterm/planning.md)
