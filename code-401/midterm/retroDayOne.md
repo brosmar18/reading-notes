@@ -27,3 +27,6 @@ The challenge arose when confronted with a Jest warning:
 This warning is indicative of asynchronous operations within the tests that were not terminated, preventing Jest from exiting cleanly. In testing our Express application, initiating the server to listen on a port, akin to its behavior in production or development environments, resulted in an open, ongoing asynchronous operation. This operation hindered Jest from closing post-test completion due to the server's continuous listening for incoming connections.
 
 To resolve this, `app.listen` was mocked, simulating the server startup without actual activation. This method was crucial for testing key functionalities, like the MongoDB connection, under a controlled and isolated setup. By mocking, we avoided initiating a real server and, consequently, the creation of persistent asynchronous operations. This strategic move was instrumental in ensuring a smoother, more efficient testing process, allowing Jest to exit as expected after the completion of tests.
+
+## Pull Request Link 
+[Dev](https://github.com/Spots-LLC/spots-backend/pull/2)
