@@ -2,7 +2,7 @@
 
 ## Progress
 
-Today was a productive day in the backend development of our application. My work primarily revolved around enhancing the authentication logic, building out essential routes, and implementing robust testing for these functionalities.
+Today was a productive day in the backend development of the application. My work primarily revolved around enhancing the authentication logic, building out essential routes, and implementing robust testing for these functionalities.
 
 ## Contributions
 
