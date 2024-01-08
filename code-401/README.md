@@ -72,3 +72,4 @@ This directory will contain all my reading notes and other resources for the "Ad
 - Midterm Prep #3: [Project Management](https://github.com/orgs/Spots-LLC/projects/1)
 - Midterm Prep #4: [Project Design Plan](midterm/planning.md)
 - Midterm Retro #1: [Day 01 Reflection](midterm/retroDayOne.md)
+- Midterm Retro #2: [Day 02 Reflection](midterm/retroDayTwo.md)
