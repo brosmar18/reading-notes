@@ -10,54 +10,55 @@ This documentation presents a detailed explanation of the Entity-Relationship Di
 ### Models and Attributes
 
 #### User
-- **userID** (_String_): Unique identifier for each user.
 - **username** (_String_): User's chosen username.
 - **email** (_String_): User's email address.
-- **role** (_Array_): Roles of the user (e.g., attendee, organizer).
+- **password** (_String_): Encrypted password for the user account.
+- **firstName** (_String_): User's first name.
+- **lastName** (_String_): User's last name.
+- **role** (_String_): Role of the user (either 'attendee' or 'organizer').
 - **location** (_String_): Geographical location of the user.
 
 #### Event
-- **eventID** (_String_): Unique identifier for each event.
 - **name** (_String_): Name of the event.
 - **description** (_String_): Detailed description of the event.
 - **location** (_String_): Location where the event takes place.
 - **startTime** (_Date_): Starting time and date of the event.
 - **endTime** (_Date_): Ending time and date of the event.
-- **category** (_String_): Category of the event (e.g., music, tech).
-- **Organizer** (_String_): Reference to the User who organizes the event.
-
-#### Preferences
-- **userID** (_String_): Identifier linking to the User.
-- **Interests** (_Array_): User's interests.
-- **foodPreferences** (_Array_): User's food preferences.
-- **eventPreferences** (_Array_): User's event preferences.
-
-#### Restaurant
-- **restaurantID** (_String_): Unique identifier for each restaurant.
-- **name** (_String_): Name of the restaurant.
-- **location** (_String_): Location of the restaurant.
-- **cuisineType** (_String_): Cuisine type offered.
-- **rating** (_Integer_): Numerical rating of the restaurant.
-- **specialOffers** (_String_): Special offers provided.
+- **category** (_String_): Category of the event, defined in `EventCategories`.
+- **organizer** (_ObjectId_): Reference to the User who organizes the event.
 
 #### Chat
-- **chatID** (_String_): Identifier for each chat session.
-- **participants** (_Array_): UserIDs of chat participants.
-- **messages** (_Array_): MessageIDs linking to Message entity.
-- **type** (_String_): Type of chat (e.g., private, group).
+- **participants** (_Array of ObjectId_): UserIDs of chat participants.
+- **messages** (_Array of ObjectId_): MessageIDs linking to Message entity.
+- **type** (_String_): Type of chat (either 'private' or 'group').
 
 #### Message
-- **senderID** (_String_): Reference to the User sending the message.
+- **sender** (_ObjectId_): Reference to the User sending the message.
 - **text** (_String_): Content of the message.
 - **timeStamp** (_Date_): Timestamp of message sent.
 
 #### Notification
-- **notificationID** (_String_): Identifier for each notification.
-- **receiverID** (_String_): Reference to the User receiving the notification.
+- **receiver** (_ObjectId_): Reference to the User receiving the notification.
 - **content** (_String_): Content of the notification.
 - **timeStamp** (_Date_): Timestamp of notification creation.
-- **eventID** (_String_): (Optional) Reference to an Event.
-- **restaurantID** (_String_): (Optional) Reference to a Restaurant.
+- **event** (_ObjectId_): (Optional) Reference to an Event.
+- **restaurant** (_ObjectId_): (Optional) Reference to a Restaurant.
+
+#### Preferences
+- **user** (_ObjectId_): Identifier linking to the User.
+- **interests** (_Array of String_): User's interests, defined in `Interests`.
+- **cuisinePreferences** (_Array of String_): User's cuisine preferences, defined in `CuisineTypes`.
+- **eventPreferences** (_Array of String_): User's event preferences, defined in `EventCategories`.
+
+#### Restaurant
+- **name** (_String_): Name of the restaurant.
+- **location** (_String_): Location of the restaurant.
+- **cuisineType** (_String_): Cuisine type offered, defined in `CuisineTypes`.
+- **rating** (_Number_): Numerical rating of the restaurant (1 to 5).
+- **specialOffers** (_String_): (Optional) Special offers provided.
+
+**Note:** In this documentation, the terms `CuisineTypes`, `Interests`, and `EventCategories` are used to refer to specific sets of predefined options. These files provide a structured and consistent set of options for various model attributes. For more details and to view these data files, please visit the project repository: [Spots-LLC/spots-backend Data Directory](https://github.com/Spots-LLC/spots-backend/tree/main/src/data).
+
 
 ### Relationships
 
