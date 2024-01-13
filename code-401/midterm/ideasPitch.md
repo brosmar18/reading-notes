@@ -1,7 +1,7 @@
 # Spots (Backend Development)
 
 ## Summary of Idea
-Spots, a backend application designed for both travel enthusiasts and locals, focuses on enriching the experience of exploring new places. It uses a user's location to offer personalized recommendations for local events, restaurants, and tourist experiences. Built with Express, MongoDB, and Socket.io, Spots aims to simplify the discovery of local attractions and activities, addressing the common challenge of quickly finding enjoyable and relevant experiences in a new area or even familiar surroundings.
+
 
 ## Minimum Viable Product (MVP) Definition
 The MVP for Spots' backend includes:

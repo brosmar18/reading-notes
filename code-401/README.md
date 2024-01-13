@@ -75,3 +75,4 @@ This directory will contain all my reading notes and other resources for the "Ad
 - Midterm Retro #2: [Day 02 Reflection](midterm/retroDayTwo.md)
 - Midterm Retro #3: [Day 03 Reflection](midterm/retroDayThree.md)
 - Midterm Retro #4: [Day 04 Reflection](midterm/retroDayFour.md)
+- Midterm Reflections: [Day 04 Reflection](midterm/reflections.md)
