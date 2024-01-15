@@ -59,7 +59,20 @@ React does not recreate all DOM nodes on every re-render. It uses a process call
 
 After React has updated the DOM, the final step before the user sees the change is the browser's repainting on the screen, also known as the 'browser paint' step. This is a process managed by the browser, not by React. Once React commits the changes to the DOM, the browser then needs to reflect these changes visually on the screen. This involves the browser's layout and painting processes, where it calculates the layout of the updated elements and then redraws the affected portions of the screen. This painting process is what ultimately makes the changes visible to the user. It's important to note that this step happens automatically and is managed by the browser after React has done its part in updating the DOM.
 
-## Things I want to konw more About
+## Things I Want to Know More About
+
+
+1. **Advanced State Management**: Beyond the basic `useState` hook, exploring more complex state management solutions like Redux or Context API would be very interesting. Understanding how these tools manage state across a larger application could provide insights into structuring more scalable and maintainable React applications.
+
+2. **Performance Optimization in React**: Learning about best practices and techniques for optimizing React applications for performance, such as lazy loading components, memoization, and effective use of React's reconciliation process, would be valuable. This knowledge can lead to more efficient and faster applications.
+
+3. **React Hooks in Depth**: An in-depth exploration of other React hooks like `useEffect`, `useContext`, `useReducer`, and custom hooks would be beneficial. Understanding these hooks can unlock more advanced patterns and techniques in functional components.
+
+4. **Integration with Other Technologies**: Gaining knowledge on how React integrates with other libraries and frameworks, such as integrating with state management libraries (Redux, MobX),  or even backend frameworks, would be interesting. This includes understanding the best practices for these integrations.
+
+5. **Testing React Components**: Strategies and tools for testing React components, including unit tests, integration tests, and end-to-end tests. 
+
+6. **Real-world React App Architecture**: Studying the architecture of real-world React applications, including file structure, component organization, and state management, would provide practical insights into building professional-grade applications.
 
 
 #### Citations
