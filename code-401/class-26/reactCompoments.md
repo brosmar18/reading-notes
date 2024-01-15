@@ -40,3 +40,29 @@ In React, the word that indicates a component is managing data with a Hook is `u
 ### How can two React components share data?  
 
 Two React components can share data through a concept known as "props" (short for properties) and state lifting. When components need to share data, the common practice is to "lift the state up" to their closest common ancestor. This means moving shared state to a parent component. The parent component then passes the data down to the children components as props. Props are read-only and allow data to flow from parent to child components, ensuring that child components react to changes in the shared state. This approach maintains a unidirectional data flow, which is a key principle in React, making the data flow easier to understand and debug.
+
+## Render and Commit 
+
+### What are the three steps of refreshing a React UI?
+
+The process of refreshing a React user interface involves three primary steps: Trigger, Render, and Commit. First, the Trigger step involves initiating the rendering process. This can occur when a component is rendered for the first time (initial render) or when a component's state or the state of its ancestors has been updated. The second step, Render, is where React calls the components to determine what should be displayed. This includes creating new DOM nodes during the initial render or calculating changes during subsequent renders. Finally, in the Commit step, React applies these determined changes to the DOM. For the initial render, it uses methods like `appendChild()` to add new elements, and for re-renders, it applies the necessary updates to the existing DOM structure.
+
+### How do you trigger updates to a component after the initial render?
+
+Updates to a React component after the initial render are typically triggered by changing the component's state or its props. This is often done through the `setState` function for class components or the state update function returned by the `useState` hook in functional components. For example, calling `this.setState({ value: newValue })` in a class component or `setValue(newValue)` in a functional component using `useState` will trigger a re-render. These state changes tell React that the component and its children need to be re-rendered with the updated state. This process is part of React's reactive design, where UI updates are automatically managed in response to state changes.
+
+### Does React recreate DOM nodes on every rerender?
+
+React does not recreate all DOM nodes on every re-render. It uses a process called reconciliation to efficiently update the DOM. During the rendering phase, React calculates the changes that need to be made to the actual DOM. It compares the newly rendered output (virtual DOM) with the previous render and determines the minimal set of changes required to update the actual DOM. Only the parts of the DOM that have changed are updated, not the entire tree. This selective updating minimizes the performance impact and makes the updates efficient. For example, if only the text content of an element changes, React will only update the text content of that specific DOM node rather than recreating the entire node.
+
+### After React has updated the DOM, what still needs to happen before the user sees the change?
+
+After React has updated the DOM, the final step before the user sees the change is the browser's repainting on the screen, also known as the 'browser paint' step. This is a process managed by the browser, not by React. Once React commits the changes to the DOM, the browser then needs to reflect these changes visually on the screen. This involves the browser's layout and painting processes, where it calculates the layout of the updated elements and then redraws the affected portions of the screen. This painting process is what ultimately makes the changes visible to the user. It's important to note that this step happens automatically and is managed by the browser after React has done its part in updating the DOM.
+
+## Things I want to konw more About
+
+
+#### Citations
+- React Team. (n.d.). *Quick Start – React*. React. Retrieved from [https://react.dev/learn](https://react.dev/learn)
+
+- React Team. (n.d.). *Render and Commit – React*. React. Retrieved from [https://react.dev/learn/render-and-commit](https://react.dev/learn/render-and-commit)
