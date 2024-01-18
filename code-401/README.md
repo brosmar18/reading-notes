@@ -79,3 +79,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 26
 - Components Based UI: [Notes](class-26/reactCompoments.md)
+
+#### Class 27
+- useState() Hook: [Notes](class-27/useStateHook.md)
