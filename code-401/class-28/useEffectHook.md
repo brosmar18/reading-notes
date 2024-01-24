@@ -23,3 +23,7 @@
 2. **Things I Want to Learn More About**
 
 I would like to explore the use of the `useEffect()` hook in various real-world scenarios. I am particularly interested in understanding how to optimize the performance of React applications using this hook, especially in complex components with multiple states and effects.  Additionally, I am curious about how `useEffect()` interacts with other hooks and how to integrate it seamlessly with the overall component architecture for cleaner and more maintainable code.
+
+
+#### Citations
+[React Documentation - useEffect Hook](https://react.dev/reference/react/useEffect#reference)
