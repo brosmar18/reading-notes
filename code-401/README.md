@@ -82,3 +82,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 27
 - useState() Hook: [Notes](class-27/useStateHook.md)
+
+#### Class 28
+- useEffect() Hook: [Notes](class-28/useEffectHook.md)
