@@ -88,3 +88,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 29
 - useReducer() Hook: [Notes](class-29/stateReducers.md)
+
+#### Class 30
+- Hash Tables: [Notes](class-30/hashTables.md)
