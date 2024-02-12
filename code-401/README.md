@@ -91,3 +91,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 30
 - Hash Tables: [Notes](class-30/hashTables.md)
+
+#### Class 31
+- Context API: [Notes](class-31/contextAPI.md)
