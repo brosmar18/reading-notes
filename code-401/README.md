@@ -94,3 +94,6 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 #### Class 31
 - Context API: [Notes](class-31/contextAPI.md)
+
+#### Class 32
+- useReducer: [Notes](class-32/useReducer.md)
