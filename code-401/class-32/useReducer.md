@@ -14,3 +14,7 @@ This combination not only simplifies the data flow but also leads to cleaner, mo
 I'm curious about the nuances and best practices for implementing this pattern in large-scale applications. Specifically, I'm interested in understanding the performance implications of using Context broadly across an app and how to mitigate potential issues. 
 Additionally, I'd like to explore more advanced use cases of the `useReducer` hook, such as handling side effects, integrating with external data sources, and managing more complex state transitions. 
 Learning about real-world scenarios and examples where this pattern has been effectively applied or where it might fall short would also be valuable for deepening my understanding of these concepts.
+
+#### Citations
+[Scaling Up with Reducer and Context. React.](https://react.dev/learn/scaling-up-with-reducer-and-context)
+
