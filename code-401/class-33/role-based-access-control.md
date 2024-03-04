@@ -78,5 +78,8 @@ I'm curious about the challenges and best practices when implementing RBAC in co
 
 
 #### Citations
+
+- Role-Based Access Control (RBAC) overview: ["What is Role-Based Access Control (RBAC)? Examples, Benefits, and More"](https://www.digitalguardian.com/blog/what-role-based-access-control-rbac-examples-benefits-and-more)
 - `react-cookie` library: ["react-cookie - npm"](https://www.npmjs.com/package/react-cookie)
 - `react-cookies` library: ["react-cookies - npm"](https://www.npmjs.com/package/react-cookies)
+
