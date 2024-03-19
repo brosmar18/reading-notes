@@ -125,6 +125,10 @@ This directory will contain all my reading notes and other resources for the "Ad
 
 - useReducer: [Notes](class-32/useReducer.md)
 
-#### Class 32
+#### Class 33
 
 - RBAC & react-cookie: [Notes](class-33/role-based-access-control.md)
+
+#### Class 34
+
+- API Integration: [Notes](class-34/api-integration.md)
