@@ -136,3 +136,7 @@ This directory will contain all my reading notes and other resources for the "Ad
 #### Class 35
 
 - Graphs: [Notes](class-35/graphs.md)
+
+#### Class 36
+
+- State Management Using Redux: [Notes](class-36/Redux.md)
