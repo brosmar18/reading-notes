@@ -140,3 +140,7 @@ This directory will contain all my reading notes and other resources for the "Ad
 #### Class 36
 
 - State Management Using Redux: [Notes](class-36/Redux.md)
+
+#### Class 37
+
+- Redux: Combined Reducers [Notes](class-37/combinedReducers.md)
