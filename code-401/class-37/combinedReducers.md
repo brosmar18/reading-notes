@@ -39,3 +39,8 @@ Managing state as an immutable object in Redux is crucial for predictability, de
 3. What is a popular convention when naming reducers? 
     
     A popular convention when naming reducers is to align the names of the reducers with the slices of state they manage. This helps in easily identifying which reducer is responsible for which part of the state. For example, if a reducer manages the user information part of the state, it might be named `userReducer`. This naming convention ensures clarity and helps maintain a structured and intuitive understanding of the state management within the application. Additionally, in the use of `combineReducers`, the keys used for reducers in the object passed to it directly define the key names in the state object, which emphasizes the importance of thoughtful naming to accurately reflect the domain or data type they manage.
+
+#### Citations
+- [Multiple Reducers with Redux Reducers - Redux React Tutorial #4](https://www.youtube.com/watch?v=gBER4Or86hE)
+- *Using combineReducers*. Retrieved from [Redux Documentation](https://redux.js.org/usage/structuring-reducers/using-combinereducers/)
+- *combineReducers API*. Retrieved from [Redux Documentation](https://redux.js.org/api/combinereducers/)
