@@ -144,3 +144,7 @@ This directory will contain all my reading notes and other resources for the "Ad
 #### Class 37
 
 - Redux: Combined Reducers [Notes](class-37/combinedReducers.md)
+
+#### Class 38
+
+- Redux: Async Operations [Notes](class-38/redux-async.md)
