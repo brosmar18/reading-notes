@@ -148,3 +148,7 @@ This directory will contain all my reading notes and other resources for the "Ad
 #### Class 38
 
 - Redux: Async Operations [Notes](class-38/redux-async.md)
+
+#### Class 39
+
+- Redux: Redux Toolkit [Notes](class-39/redux-toolkit.md)
